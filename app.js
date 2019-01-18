@@ -12,7 +12,7 @@ const data = [{
     gender: 'female',
     lookingfor: 'male',
     location: 'Cork IE',
-    image: 'https://randomuser.me/api/portraits/female/28.jpg'
+    image: 'https://randomuser.me/api/portraits/women/28.jpg'
   },
   {
     name: 'Monica White',
@@ -20,7 +20,7 @@ const data = [{
     gender: 'female',
     lookingfor: 'male',
     location: 'Dublin IE',
-    image: 'https://randomuser.me/api/portraits/female/30.jpg'
+    image: 'https://randomuser.me/api/portraits/women/30.jpg'
   }
 ];
 
