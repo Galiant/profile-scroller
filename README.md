@@ -1,4 +1,4 @@
-# profile-scroller
+# Profile Scroller
 
 Profile scroller using javascript (ES6) iterator.
 
